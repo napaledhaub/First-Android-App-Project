@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="naming">
+        <item>Food</item>
+        <item>Rinso</item>
+        <item>Snack</item>
+        <item>Food</item>
+        <item>Mercury</item>
+        <item>Mercury</item>
+        <item>Rinso</item>
+        <item>Food</item>
+        <item>Snack</item>
+        <item>Food</item>
+    </string-array>
+    <string-array name="quants">
+        <item>3 x Rp. 3700</item>
+        <item>6 x Rp. 1000</item>
+        <item>1 x Rp. 2100</item>
+        <item>2 x Rp. 3700</item>
+        <item>9 x Rp. 4000</item>
+        <item>5 x Rp. 4000</item>
+        <item>2 x Rp. 1000</item>
+        <item>1 x Rp. 3700</item>
+        <item>1 x Rp. 2100</item>
+        <item>2 x Rp. 3700</item>
+    </string-array>
+    <string name="title_activity_peta">Map</string>
+</resources>
